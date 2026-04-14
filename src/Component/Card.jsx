@@ -21,7 +21,6 @@ function Counter() {
 
                         <h1>usecallback</h1>
 
-                                                <h1>react memo</h1>
 
 
       
